@@ -1,5 +1,8 @@
 # Computer Science Student
 
+## About Me
+I am a dedicated and organized individual with a strong drive to contribute to the growth of organizations. I am motivated to learn, grow, and excel in any field I'm in.
+
 #### Technical Skills: CPP, SQL, Blue Prism, AWS, Python, 
 
 ## Education
