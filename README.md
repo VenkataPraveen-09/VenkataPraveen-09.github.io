@@ -31,9 +31,9 @@ Developed a voice-controlled assistant using Python, harnessing the power of inb
 Developed a full-stack web application utilizing JavaScript, React, Node.js, and MongoDB as the backend database. The project's primary focus was to provide users with a secure platform to create, store, edit, and delete personal notes. Each user had their individual credentials and a dedicated space to manage their notes. The application allowed users to edit every attribute within their notes, offering a seamless and personalized note-taking experience. This project showcased my proficiency in full-stack web development, including front-end design using React, back-end server setup with Node.js, and data storage and retrieval using MongoDB.
 
 ## Global Certifications
-- Service Now Certified System Administrator - Service Now
-- Automation Anywhere Certified Advanced RPA - AutomationAnywhere
-- Microsoft Azure Fundamentals (Az-900) - Microsoft
+- Service Now Certified System Administrator - **Service Now**
+- Certified Advanced RPA - **AutomationAnywhere**
+- Microsoft Azure Fundamentals (Az-900) - **Microsoft**
 
 ### Coding Profiles
 - [CodeChef](https://www.codechef.com/users/venkat0999)
