@@ -4,8 +4,8 @@
 
 ## Education
 - B.Tech., Computer Science | K L University (_Sep 2020- Present_)								       		
-- 12th., Science	| Pragati (_March 2020_)	 			        		
-- 10th., Science | Pragati High School (_May 2018_)
+- 12th., Science	          | Pragati (_March 2020_)	 			        		
+- 10th., Science            | Pragati High School (_May 2018_)
 
 ## Internships
 **AWS Cloud Virtual Internship @  EduSkills (_Mar 2022 - May 2022_)**
