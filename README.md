@@ -30,6 +30,17 @@ Developed a voice-controlled assistant using Python, harnessing the power of inb
 
 Developed a full-stack web application utilizing JavaScript, React, Node.js, and MongoDB as the backend database. The project's primary focus was to provide users with a secure platform to create, store, edit, and delete personal notes. Each user had their individual credentials and a dedicated space to manage their notes. The application allowed users to edit every attribute within their notes, offering a seamless and personalized note-taking experience. This project showcased my proficiency in full-stack web development, including front-end design using React, back-end server setup with Node.js, and data storage and retrieval using MongoDB.
 
+## Mini Projects/Personal Projects
+### TextUtils Project
+[Repo. Link](https://github.com/VenkataPraveen-09/TextUtils-Using-React)
+
+Developed a web application using JavaScript and React to gain hands-on experience with React.Created a user-friendly interface where users can input text and perform various text manipulations. Implemented a feature to calculate the estimated reading time for a given paragraph or line of text based on word count, enhancing user engagement. Added user-friendly dark and light mode options to improve the visual experience.
+
+### TO-DO List
+[Repo. Link](https://github.com/VenkataPraveen-09/To_Do-Using-JavaScript)
+
+Designed and developed a minimalist to-do list application using **JavaScript and CSS**, demonstrating strong front-end web development skills. Created an intuitive user interface that allows users to add, edit, and delete tasks, enhancing task management and productivity.
+
 ## Global Certifications
 - Service Now Certified System Administrator - **Service Now**
 - Certified Advanced RPA - **AutomationAnywhere**
