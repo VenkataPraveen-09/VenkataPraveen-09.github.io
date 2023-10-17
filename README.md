@@ -22,6 +22,7 @@ I am a dedicated and organized individual with a strong drive to contribute to t
 ## Projects
 ### E-Commerce WebSite
 [Repo. Link](https://github.com/VenkataPraveen-09/E-Commerce)
+
 The MERN Stack E-commerce Clothing Website is a dynamic and user-friendly online platform that I developed to sell a wide range of clothing products. Leveraging the power of the MERN (MongoDB, Express.js, React, and Node.js) technology stack, this project offers a seamless and enjoyable shopping experience for customers. A comprehensive catalog of clothing items, including categories, filters, and search functionalities, helps users quickly find the products they are looking for. A fully functional shopping cart allows customers to add, remove, and modify items before proceeding to checkout.
 
 ### Voice Assistant Project
