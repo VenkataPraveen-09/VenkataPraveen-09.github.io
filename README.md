@@ -3,7 +3,7 @@
 ## About Me
 I am a dedicated and organized individual with a strong drive to contribute to the growth of organizations. I am motivated to learn, grow, and excel in any field I'm in.
 
-#### Technical Skills: CPP, SQL, Blue Prism, AWS, Python, 
+#### Technical Skills: CPP, SQL, HTML&CSS, JavaScript, Git, Blue Prism, AWS, Python, 
 
 ## Education
 - B.Tech., Computer Science | K L University (_Sep 2020- Present_)								       		
