@@ -31,7 +31,7 @@ The MERN Stack E-commerce Clothing Website is a dynamic and user-friendly online
 Developed a voice-controlled assistant using Python, harnessing the power of inbuilt libraries such as speech_recognition, pyttsx3, playsound, and platform. in **Python**. Implemented voice recognition functionality, enabling the assistant to accurately interpret spoken commands. Designed and customized the assistant to perform a variety of tasks, including answering questions, providing information, and executing basic commands.
 
 ### Full-Stack Web Application: Personal Note Management
-[Repo. Link](https://github.com/VenkataPraveen-09/Notes)
+[Repo. Link](https://github.com/VenkataPraveen-09/TextUtils-Using-React)
 
 Developed a full-stack web application utilizing JavaScript, React, Node.js, and MongoDB as the backend database. The project's primary focus was to provide users with a secure platform to create, store, edit, and delete personal notes. Each user had their individual credentials and a dedicated space to manage their notes. The application allowed users to edit every attribute within their notes, offering a seamless and personalized note-taking experience. This project showcased my proficiency in full-stack web development, including front-end design using React, back-end server setup with Node.js, and data storage and retrieval using MongoDB.
 
