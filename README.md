@@ -55,6 +55,7 @@ Designed and developed a minimalist to-do list application using **JavaScript an
 - [CodeChef](https://www.codechef.com/users/venkat0999)
 - [LeetCode](https://leetcode.com/venkat099)
 - [StopStalk](https://www.stopstalk.com/user/profile/venkat0999)
+- [HackerRank](https://www.hackerrank.com/profile/klu_2000031043)
 
 ### Social Media Handles
 - [LinkedIn](https://www.linkedin.com/in/venkatapraveenvundavalli/)
